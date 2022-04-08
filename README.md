@@ -7,6 +7,6 @@ Python based Duolingo account checker which captures if account has Plus subscri
 
 ### Usage
 
-- HTTP(S) Proxies are requiured
+- HTTP(S) Proxies are required
 - Free proxies won't work
 - email:pass combo only
