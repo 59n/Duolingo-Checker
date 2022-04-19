@@ -1,5 +1,5 @@
-# Duolingo-Checker
-Python based Duolingo account checker which captures if account has Plus subscription if so, it captures course ID.
+# Funimation-Checker
+Python based Funimation account checker which captures if account has Premium or Free subscription.
 
 ![image](https://user-images.githubusercontent.com/51265624/162493363-17606bff-db4a-42de-8629-9bc7fa776a92.png)
 
